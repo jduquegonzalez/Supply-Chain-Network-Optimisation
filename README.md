@@ -15,8 +15,8 @@ The repository is organised into the following sections:
 
 ### 2. Transhipment Problem
 - **Introduction**: An overview of the Transhipment Problem, highlighting the differences and additional complexities compared to the Transportation Problem.
-- **Model Formulation**: This is a comprehensive guide to formulating the Transhipment Problem, with a focus on network flows and additional constraints.
-- **Python Implementation**: Jupyter Notebooks showcasing the Python-based approach to solving the Transhipment Problem, complete with code snippets and detailed explanations.
+- **Model Formulation**: A comprehensive guide to formulating the Transhipment Problem, with a focus on network flows and additional constraints.
+- **Python Implementation**: Jupyter notebooks showcasing the Python-based approach to solving the Transhipment Problem, complete with code snippets and detailed explanations.
 
 ### 3. Modelling Approaches and Insights
 - **Trade-offs and Insights**: Discussion on the trade-offs involved in network optimisation, including cost minimisation, capacity constraints, and demand satisfaction.
@@ -57,6 +57,7 @@ This project is licensed under the MIT Licence. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 This repository was inspired by the coursework and materials provided by the MIT Center for Transportation & Logistics, particularly the [MicroMaster in Supply Chain Management's](https://ctl.mit.edu/education/mitx-micromastersr-program-supply-chain-management#:~:text=The%20MicroMasters%20is%20an%20advanced,worth%20of%20coursework%20at%20MIT) "Supply Chain Design" course. Special thanks to the creators and contributors of the PuLP library for providing an excellent tool for linear programming in Python.
+
 ---
 
 This repository aims to be a valuable resource for students, researchers, and professionals working in the field of supply chain management and optimisation. By transitioning from Excel to Python, we hope to provide more flexible, scalable, and powerful tools for solving complex network problems. Happy optimising!
@@ -64,7 +65,7 @@ This repository aims to be a valuable resource for students, researchers, and pr
 ## About the Author
 
 **Jonathan Duque Gonzalez**
-- Enthusiastic and results-driven supply chain analyst passionate about continuous growth and innovation.
-- Armed with a keen curiosity and unwavering determination.
+- An enthusiastic and results-driven supply chain analyst. Deeply passionate about fostering continuous growth and innovation, demonstrating a keen curiosity and unwavering determination.
+- Currently pursuing studies in Statistics and Data Science with the aim of becoming a Supply Chain Data Scientist.
 - Currently working at Waitrose & Partners in London.
 - [LinkedIn Profile](https://www.linkedin.com/in/jonathan-duque-gonzalez-959134143/)
