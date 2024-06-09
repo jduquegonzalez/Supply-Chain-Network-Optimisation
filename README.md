@@ -56,8 +56,7 @@ This project is licensed under the MIT Licence. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-This repository was inspired by the coursework and materials provided by the MIT Center for Transportation & Logistics, particularly the "Supply Chain Design" course. Special thanks to the creators and contributors of the PuLP library for providing an excellent tool for linear programming in Python.
-
+This repository was inspired by the coursework and materials provided by the MIT Center for Transportation & Logistics, particularly the [MicroMaster in Supply Chain Management's](https://ctl.mit.edu/education/mitx-micromastersr-program-supply-chain-management#:~:text=The%20MicroMasters%20is%20an%20advanced,worth%20of%20coursework%20at%20MIT) "Supply Chain Design" course. Special thanks to the creators and contributors of the PuLP library for providing an excellent tool for linear programming in Python.
 ---
 
 This repository aims to be a valuable resource for students, researchers, and professionals working in the field of supply chain management and optimisation. By transitioning from Excel to Python, we hope to provide more flexible, scalable, and powerful tools for solving complex network problems. Happy optimising!
